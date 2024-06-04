@@ -7,6 +7,22 @@ export default function App() {
       <header className="App-header">
         <img src={logo} className="App-logo img-fluid" alt="logo" />
       </header>
+
+      <footer class="footer">
+        This project was coded by{" "}
+        <a href="https://github.com/Maria-Sousa-GH" target="_blank">
+          {" "}
+          Maria Sousa
+        </a>{" "}
+        and is
+        <a
+          href="https://https://github.com/Maria-Sousa-GH/dictionary-app"
+          target="_blank"
+        >
+          {" "}
+          open-sourced on GitHub.
+        </a>
+      </footer>
     </div>
   );
 }
