@@ -4,11 +4,13 @@ import logo from "./shecodeslogo.png";
 export default function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo img-fluid" alt="logo" />
-      </header>
+      <div className="container">
+        <header className="App-header">
+          <img src={logo} className="App-logo img-fluid" alt="logo" />
+        </header>
+      </div>
 
-      <footer class="footer">
+      <footer className="text-center">
         This project was coded by{" "}
         <a href="https://github.com/Maria-Sousa-GH" target="_blank">
           {" "}
