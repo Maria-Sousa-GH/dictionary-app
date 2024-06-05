@@ -29,6 +29,7 @@ export default function App() {
         <a
           href="https://https://github.com/Maria-Sousa-GH/dictionary-app"
           target="_blank"
+          rel="noreferrer"
         >
           {" "}
           open-sourced on GitHub.
