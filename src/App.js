@@ -1,5 +1,6 @@
 import "./App.css";
 import logo from "./shecodeslogo.png";
+import Dictionary from "./Dictionary";
 
 export default function App() {
   return (
@@ -9,6 +10,10 @@ export default function App() {
           <img src={logo} className="App-logo img-fluid" alt="logo" />
         </header>
       </div>
+      
+      <main>
+        <Dictionary />
+        </main>  
 
       <footer className="text-center">
         This project was coded by{" "}
