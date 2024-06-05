@@ -14,20 +14,23 @@ export default function App() {
         </main>
         <footer className="text-center">
           This project was coded by
-          <a href="https://github.com/Maria-Sousa-GH" target="_blank"
-            >Maria Sousa</a
-          >
+          <a href="https://github.com/Maria-Sousa-GH" target="_blank">
+            Maria Sousa
+          </a>
           and is open-sourced on
           <a
             href="https://github.com/Maria-Sousa-GH/dictionary-app"
             target="_blank"
-            >GitHub</a
           >
+            GitHub
+          </a>
           and hosted on
-          <a href="https://mariasousagh-dictionary-app.netlify.app/" target="_blank"
-            >Netlify</a
+          <a
+            href="https://mariasousagh-dictionary-app.netlify.app/"
+            target="_blank"
           >
-        </div>
+            Netlify
+          </a>
         </footer>
       </div>
     </div>
