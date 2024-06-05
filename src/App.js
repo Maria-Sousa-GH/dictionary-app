@@ -10,14 +10,18 @@ export default function App() {
           <img src={logo} className="App-logo img-fluid" alt="logo" />
         </header>
       </div>
-      
+
       <main>
         <Dictionary />
-        </main>  
+      </main>
 
       <footer className="text-center">
         This project was coded by{" "}
-        <a href="https://github.com/Maria-Sousa-GH" target="_blank">
+        <a
+          href="https://github.com/Maria-Sousa-GH"
+          target="_blank"
+          rel="noreferrer"
+        >
           {" "}
           Maria Sousa
         </a>{" "}
