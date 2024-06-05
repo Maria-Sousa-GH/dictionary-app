@@ -12,15 +12,21 @@ export default function App() {
         <main>
           <Dictionary defaultKeyword="sunset" />
         </main>
+
         <footer className="text-center">
           This project was coded by
-          <a href="https://github.com/Maria-Sousa-GH" target="_blank">
+          <a
+            href="https://github.com/Maria-Sousa-GH"
+            target="_blank"
+            rel="noreferrer"
+          >
             Maria Sousa
           </a>
           and is open-sourced on
           <a
             href="https://github.com/Maria-Sousa-GH/dictionary-app"
             target="_blank"
+            rel="noreferrer"
           >
             GitHub
           </a>
@@ -28,6 +34,7 @@ export default function App() {
           <a
             href="https://mariasousagh-dictionary-app.netlify.app/"
             target="_blank"
+            rel="noreferrer"
           >
             Netlify
           </a>
